@@ -150,7 +150,7 @@ p{
     display:flex
 }
 
-@media (min-width:320px) and (max-width:767px) {
+@media (min-width:320px) and (max-width:1023px) {
     body{
         height:100%;
     }
@@ -173,4 +173,3 @@ p{
         gap:1.2rem;
     }
 }*/
-
