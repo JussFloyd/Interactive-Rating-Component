@@ -156,11 +156,7 @@ p{
     }
 
     #rating-container{
-        max-width:90%;
-    }
-    
-    #rating-btn-container{
-        gap:1.8rem;
+        max-width:95%;
     }
 }
 
@@ -177,3 +173,4 @@ p{
         gap:1.2rem;
     }
 }*/
+
