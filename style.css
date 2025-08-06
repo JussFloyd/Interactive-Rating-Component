@@ -169,11 +169,12 @@ p{
     }
 }
 
-@media (min-width:1441 {
+@media (min-width:1440px) {
     #rating-container{
         max-width:30%
     }
 }
+
 
 
 
